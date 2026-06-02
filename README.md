@@ -64,8 +64,8 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 ## 📅 Cronograma de trabajo
 
-[Carta Gantt](https://usmcl-my.sharepoint.com/:x:/r/personal/asepulvedaj_usm_cl/Documents/Book%201.xlsx?d=w14a6bc7b00634e5da42228bc9c5926b3&csf=1&web=1&e=wt5eZn&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
-
+[Carta Gantt]
+[Carta gantt.xlsx](https://github.com/user-attachments/files/28522902/Carta.gantt.xlsx)
 ---
 
 ## 📚 Bibliografía
