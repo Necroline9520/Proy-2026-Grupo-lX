@@ -56,9 +56,9 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 ## 🚀 Instrucciones de Instalacion y Uso
 
 
-1. **Clonar el repositorio:** `git clone ...`
-2. **Descargar los datos a un drive**
-3. **Ejecución:** Cómo se corre el código principal.
+1. **Clonar el repositorio que esta en "codigo" a google colab**
+2. **Descargar la carpeta "Archivos_modelo" y subirla a drive**
+4. **Ejecutar las celdas de la 1 a la 9 en orden**
 
 ---
 
