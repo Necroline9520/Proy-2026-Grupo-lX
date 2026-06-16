@@ -21,13 +21,13 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 - Objetivo general:
   - resolver un problema relacionado con la gran incertidumbre de precios que existe en el sector ganadero en Chile
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
+  - Recopilar y organizar información histórica de precios del ganado en Chile, construyendo una base de datos centralizada y confiable.
     (****)
 ---
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+El proyecto contempla el desarrollo de un sistema de predicción de precios del ganado en Chile basado en el análisis de datos históricos y variables externas que influyen en el comportamiento del mercado. El sistema recopilará, almacenará y procesará información relacionada con precios históricos, condiciones climáticas, stock de animales, tipo de cambio del dólar e importaciones, con el fin de generar estimaciones de tendencias futuras en los precios.
 
 ---
 
