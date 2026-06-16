@@ -70,6 +70,7 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 ## 📚 Bibliografía
 
-[Enlace](https://google.com)
-
+Gemini
+Gemini+
+Gemini++
 ---
