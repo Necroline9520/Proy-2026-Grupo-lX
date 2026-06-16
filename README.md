@@ -72,6 +72,8 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 ## 📚 Bibliografía
 
 Gemini
+
 Gemini+
+
 Gemini++
 ---
