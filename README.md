@@ -28,7 +28,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+El proyecto contempla el desarrollo de un sistema de predicción de precios del ganado en Chile basado en el análisis de datos históricos y variables externas que influyen en el comportamiento del mercado. El sistema recopilará, almacenará y procesará información relacionada con precios históricos, condiciones climáticas, stock de animales, tipo de cambio del dólar e importaciones, con el fin de generar estimaciones de tendencias futuras en los precios.
 
 ---
 
