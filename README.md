@@ -37,6 +37,7 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 - Google colab 
 - Python
 - Drive
+- Grok
 ---
 
 ## 🗂️ Estructura del repositorio
@@ -58,7 +59,7 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 1. **Clonar el repositorio que esta en "codigo" a google colab**
 2. **Descargar la carpeta "Archivos_modelo" y subirla a drive**
-4. **Ejecutar las celdas de la 1 a la 9 en orden**
+4. **Ejecutar las celdas de la 1 a la 15, seguido a de la 20 a la 31 en orden**
 
 ---
 
@@ -73,8 +74,3 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 [Enlace](https://google.com)
 
 ---
-
-## 📌 Notas adicionales
-
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
-Voy a dejar las cosas con (***) para las cosas que vayan faltando entremedio
