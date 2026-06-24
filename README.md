@@ -59,7 +59,7 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 1. **Clonar el repositorio que esta en "codigo" a google colab**
 2. **Descargar la carpeta "Archivos_modelo" y subirla a drive**
 4. **Ejecutar todas las celdas**
-5. **Abrir el enlace que genera la celda 32**
+5. **Abrir el enlace que genera la celda 46**
 
 ---
 
