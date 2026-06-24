@@ -71,8 +71,12 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 
 ## 📚 Bibliografía
 
-Gemini
+[Gemini](Poner el enlace aqui)
 
-[machinelearningmastery]https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+[machinelearningmastery](https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/)
 
 ---
+
+## Video
+
+[Video explicativo](Poner el enlace aqui)
