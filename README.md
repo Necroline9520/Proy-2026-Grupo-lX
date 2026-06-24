@@ -36,7 +36,7 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 - Google colab 
 - Python
 - Drive
-- Grok
+- NGrok
 ---
 
 ## 🗂️ Estructura del repositorio
@@ -58,8 +58,8 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 
 1. **Clonar el repositorio que esta en "codigo" a google colab**
 2. **Descargar la carpeta "Archivos_modelo" y subirla a drive**
-4. **Ejecutar las celdas de la 1 a la 15, seguido a de la 20 a la 31 en orden**
-5. **Abrir el enlace que genera la celda xx**
+4. **Ejecutar todas las celdas**
+5. **Abrir el enlace que genera la celda 32**
 
 ---
 
@@ -73,8 +73,6 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 
 Gemini
 
-Gemini+
-
-Gemini++
+[machinelearningmastery]https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
 
 ---
