@@ -65,8 +65,8 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 
 ## 📅 Cronograma de trabajo
 
-[Carta Gantt]
 [Carta gantt.xlsx](https://github.com/user-attachments/files/28522902/Carta.gantt.xlsx)
+
 ---
 
 ## 📚 Bibliografía
