@@ -79,4 +79,4 @@ El proyecto contempla el desarrollo de un sistema de predicción de precios del 
 
 ## Video
 
-[Video explicativo](Poner el enlace aqui)
+[Video explicativo](https://youtube.com/shorts/cyIrEd11mgg?si=juFYG8j0NtcwBKLl)
